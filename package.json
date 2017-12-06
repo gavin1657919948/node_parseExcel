@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "node-xlsx": "latest"
+  },
+  "name": "excel-parse",
+  "version": "1.0.0",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
